@@ -7,9 +7,9 @@ For its intended use the nmea-xml package needs to be installed on a computer wi
 
 On Linux systems, if not already installed, Mono run-time also needs to be installed:
 
-$ sudo apt-get update
+     sudo apt-get install update
 
-$ sudo apt-get install mono-runtime
+     sudo apt-get install mono-runtime
 
 # Installation
 
