@@ -9,7 +9,6 @@ On Linux systems, if not already installed, Mono run-time also needs to be insta
 
      sudo apt-get install update
 
-
      sudo apt-get install mono-runtime
 
 # Installation
